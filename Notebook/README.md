@@ -17,7 +17,7 @@
 
 ### Install RDKit
 
-```conda install -c conda-forge rdkit
+```conda install -c conda-forge ```
 
 ### Open notebook
 
