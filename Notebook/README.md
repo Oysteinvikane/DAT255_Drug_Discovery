@@ -7,7 +7,7 @@
 
 ### Step 2 - Activate environment
 
-```conda activate envname```
+```conda activate dat255-drug```
 
 ## Jupyter notebook
 
