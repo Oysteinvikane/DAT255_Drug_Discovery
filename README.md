@@ -15,4 +15,18 @@ Koutsoukas, A., Monaghan, K.J., Li, X. et al. Deep-learning: investigating deep 
 
 Blogpost for the project can be found at: https://drug-discovery.github.io/Drug-Discovery-blog/
 
+## Project organization
 
+    ├── README.md          <- The top-level README.
+    ├── dataset
+    │   ├── 13321_2017_226_MOESM1_ESM   <- Data from third party sources.
+    │   ├── temp                        <- Temporary data that has been transformed.
+    │
+    ├── Notebook          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    │                         e.g. "1.0-data_and_RF-model"
+    │
+    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    │
+    ├── images        <- figures to be used in README.md
+    │
+    ├── environment.yml   <- The conda and pip requirements file for reproducing the analysis environment
