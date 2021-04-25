@@ -23,3 +23,5 @@ The notebooks are structured from 1 - 4.
 * 2: Image classification, creating fingerprints and dataloader aswell as training on resnet 18.
 * 3: Creating activations
 * 4: Random Forest with activations for fingerprints.
+
+ps: Notebooks are under construction and still note completely finnished.
