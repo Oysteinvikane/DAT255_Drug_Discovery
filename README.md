@@ -4,7 +4,7 @@ Drug Discovery project with machine learning and neural networks
 ## Introduction
 The development of new drugs takes between 15-20 years of development and costs an average of 4 billion US dollars. Modern drug discovery and development usually follows a set of systematic procedures. Modern drug discovery and drug development usually follows a set of systematic procedures, often starting with a validated biomolecular target for which one tries to find a modulator (i.e. a drug). For many years machine learning has played a role in drug discovery. In recent years modern machine learning techniques have been applied to all stages, from initial target discovery and compound screening to the analysis of pathology data during clinical development.
 
-![](images/drugdevmodel.jpg)
+![](images/Drugdevmodel.jpg)
 
 In this project we will focus on early stages of this development, more specifically predicting a candidates affinity and activity against a target. This is a long and tedious search to find a drug-like small molecule called a development candidate. The candidate is then choosen for the clinical development stage. There are strong implications that this process can be sped up with machine learning techniques.
 
